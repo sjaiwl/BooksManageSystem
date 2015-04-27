@@ -1,0 +1,23 @@
+﻿生成启动时间为 2012/11/17 0:40:25。
+     1>项目“E:\C++程序项目\图书管理系统-王林\图书管理系统\图书管理系统\图书管理系统.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\图书管理系统.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         e:\编程工具\Visual Studio 2010\Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\图书管理系统.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.lib" /MACHINE:X86 Debug\book.obj
+         Debug\manage.obj
+         Debug\reader.obj
+         "Debug\实验test.obj"
+         LINK : 没有找到 E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.exe 或上一个增量链接没有生成它；正在执行完全链接
+         图书管理系统.vcxproj -> E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\C++程序项目\图书管理系统-王林\图书管理系统\Debug\图书管理系统.exe;#1" /manifest "Debug\图书管理系统.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\图书管理系统.unsuccessfulbuild”。
+         正在对“Debug\图书管理系统.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\C++程序项目\图书管理系统-王林\图书管理系统\图书管理系统\图书管理系统.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.18
